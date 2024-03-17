@@ -1,0 +1,9 @@
+{
+    "name": "Carrefour",
+    "address": "C/ corrida",
+    "city": "Gijon",
+    "schedule": "10-22",
+    "type":"hyper",
+    "contact": 999999999,
+    "logoImage": "#"
+}

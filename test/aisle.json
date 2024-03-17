@@ -1,0 +1,37 @@
+[
+    {
+    "product":"Desayunos",
+    "number": 1,
+    "shop": "65f1af42ba87d910ea157076"
+    },
+    {
+    "product":"Lacteos",
+    "number": 2,
+    "shop": "65f1af42ba87d910ea157076"
+    },
+    {
+    "product":"Congelados",
+    "number": 3,
+    "shop": "65f1af42ba87d910ea157076"
+    },
+    {
+    "product":"Carniceria",
+    "number": 4,
+    "shop": "65f1af42ba87d910ea157076"
+    },
+    {
+    "product":"Pescaderia",
+    "number": 5,
+    "shop": "65f1af42ba87d910ea157076"
+    },
+    {
+    "product":"Limpieza",
+    "number": 6,
+    "shop": "65f1af42ba87d910ea157076"
+    },
+    {
+    "product":"Higiene",
+    "number": 7,
+    "shop": "65f1af42ba87d910ea157076"
+    }
+]

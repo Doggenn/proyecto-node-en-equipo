@@ -1,0 +1,97 @@
+[{
+    "name": "Pan integral",
+    "quantity": 1,
+    "typeProduct": "Pan y derivados" ,
+    "shelf": " ."
+},
+{
+    "name": "Lejía",
+    "quantity": 1,
+    "typeProduct": "Producto de limpieza" ,
+    "shelf": " ."
+},
+{
+    "name": "Queso fresco",
+    "quantity": 4,
+    "typeProduct": "Lácteos" ,
+    "shelf": " ."
+},
+{
+    "name": "CocaCola",
+    "quantity": 12,
+    "typeProduct": "Refrescos" ,
+    "shelf": " ."
+},
+{
+    "name": "Sal del Himalaya",
+    "quantity": 1,
+    "typeProduct": "Especias" ,
+    "shelf": " ."
+},
+{
+    "name": "Magdalenas rellenas",
+    "quantity": 18,
+    "typeProduct": "Bollería" ,
+    "shelf": " ."
+},
+{
+    "name": "Raviolis espinaca y ricotta",
+    "quantity": 1,
+    "typeProduct": "Pastas" ,
+    "shelf": " ."
+},
+{
+    "name": "Zumo de naranja",
+    "quantity": 1,
+    "typeProduct": "Zumos" ,
+    "shelf": " ."
+},
+{
+    "name": "Anacardos salados",
+    "quantity": 1,
+    "typeProduct": "Frutos secos" ,
+    "shelf": " ."
+},
+{
+    "name": "Pasta de dientes",
+    "quantity": 2,
+    "typeProduct": "Producto de higiene" ,
+    "shelf": " ."
+},
+{
+    "name": "Leche de avena",
+    "quantity": 6,
+    "typeProduct": "Lácteos y derivados" ,
+    "shelf": " ."
+},
+{
+    "name": "Rosquillas fritas",
+    "quantity": 16,
+    "typeProduct": "Bollería" ,
+    "shelf": " ."
+},
+{
+    "name": "Salsa de kimchi",
+    "quantity": 1,
+    "typeProduct": "Salsas" ,
+    "shelf": " ."
+},
+{
+    "name": "Garbanzos cocidos",
+    "quantity": 1,
+    "typeProduct": "Legumbres" ,
+    "shelf": " ."
+},
+{
+    "name": "Aceitunas gazpacha",
+    "quantity": 1,
+    "typeProduct": "Encurtidos" ,
+    "shelf": " ."
+},
+{
+    "name": "Tampax compact",
+    "quantity": 18,
+    "typeProduct": "Higiene" ,
+    "shelf": " ."
+}
+]

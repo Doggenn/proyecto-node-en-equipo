@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Arroz, pastas y legumbres",
+        "quantity": 20,
+        "shelf": "65f1af42ba87d910ea157076"
+    },
+
+    {
+        "name": "Aceites, salsas y especias",
+        "quantity": 15,
+        "shelf": "65f1af42ba87d910ea157076"
+    },
+
+    {
+        "name": "Panes, harinas y masas",
+        "quantity": 20,
+        "shelf": "65f1af42ba87d910ea157076"
+    },
+
+    {
+        "name": "Galletas, bollos y cereales",
+        "quantity": 30,
+        "shelf": "65f1af42ba87d910ea157076"
+    },
+
+    {
+        "name": "Patatas fritas, encurtidos y frutos secos",
+        "quantity": 10,
+        "shelf": "65f1af42ba87d910ea157076"
+    },
+    {
+        "name": "Agua, refrescos y zumos",
+        "quantity": 30,
+        "shelf": "65f1af42ba87d910ea157076"
+    },
+    {
+        "name": "Limpieza y hogar",
+        "quantity": 12,
+        "shelf": "65f1af42ba87d910ea157076"
+    },
+    {
+        "name": "Leche, huevos y mantequilla",
+        "quantity": 30,
+        "shelf": "65f1af42ba87d910ea157076"
+    }
+]
